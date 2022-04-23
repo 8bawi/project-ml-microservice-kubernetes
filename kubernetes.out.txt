@@ -1,0 +1,4 @@
+kubectl port-forward pod/backend 8000:80
+Handling connection for 8000
+
+
